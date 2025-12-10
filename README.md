@@ -1,2 +1,4 @@
 # Christie-Psychology-Criminology-Analysis
-​A disciplinary analysis of Agatha Christie's novels focusing on criminal psychology, legal frameworks, and analytical methods.
+Agatha Christie’s And Then There Were None is one of the most striking closed-circle detective narratives in modern literature. The novel brings together characters who are each connected to a hidden mistake or an unethical act from their past. As these secrets are gradually revealed, the story allows us to observe their psychological reactions—fear, guilt, distrust, and the instinct for survival. For this reason, the novel serves not only as a crime narrative but also as a setting where deeper aspects of human psychology can be examined.
+
+In this project, our aim is to analyze the characters not only through the plot, but also through ethical, psychological, and causal perspectives. By doing so, we hope to better understand the novel and propose a structured, interdisciplinary method for literary analysis.
